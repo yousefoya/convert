@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class Convert {
      public static void main(String[] args) {
-         System.out.println("2");
         //Declaration and Initiation
         Scanner in=new Scanner(System.in);
         System.out.println("Please choose a system:(D , B , O or H)");
